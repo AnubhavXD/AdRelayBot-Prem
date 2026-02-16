@@ -31,8 +31,8 @@ def accounts_menu_keyboard():
 
 def support_keyboard():
     keyboard = [
-        [InlineKeyboardButton("◈ ᴀᴅᴍɪɴ", url="https://t.me/dojutsu")],
-        [InlineKeyboardButton("◉ ʜᴏᴡ ᴛᴏ ᴜsᴇ", url="https://t.me/dojutsu")],
+        [InlineKeyboardButton("◈ ᴀᴅᴍɪɴ", url="https://t.me/Sanskkar")],
+        [InlineKeyboardButton("◉ ʜᴏᴡ ᴛᴏ ᴜsᴇ", url="https://t.me/Sanskkar")],
         [InlineKeyboardButton("« ʙᴀᴄᴋ", callback_data="main_menu")]
     ]
     return InlineKeyboardMarkup(keyboard)
